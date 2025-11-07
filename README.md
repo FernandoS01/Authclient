@@ -8,7 +8,7 @@ Frontend de autenticação e registro desenvolvido em **React + TypeScript**, co
 - 🟦 TypeScript
 - 📦 Axios
 - 🧠 Context API (controle de autenticação)
-- 🎨 CSS Modules
+
 
 ---
 
